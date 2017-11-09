@@ -1,10 +1,4 @@
-<!DOCTYPE HTML>
-
-<html>
-<p>
-<h1> Hello World</h1>
-</p>
-</html>
+<H1> Hello, World!</H1>
 
 
 # Your First HTML Tag
